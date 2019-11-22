@@ -1,5 +1,5 @@
 from pytest_bdd import scenarios, given, when, then
-from tests.retirement import *
+from retirement import *
 
 
 @scenarios('../features/bdd_retirement.feature')
